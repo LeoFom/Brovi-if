@@ -1,0 +1,23 @@
+{
+  "name": "liza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://LeoFom.github.io/Brovi-if",
+  "scripts": {
+    "deploy": "gh-pages -d Brovi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoFom/Brovi-if.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoFom/Brovi-if/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
